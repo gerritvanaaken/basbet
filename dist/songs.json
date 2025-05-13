@@ -1,0 +1,279 @@
+{
+	"meta": {
+		"formatversion": "1",
+		"day": "2024-05-11",
+		"showtype": "Grand Final",
+		"bettingLocked": false,
+		"finished": false		
+	},
+	"songs": [
+		{
+			"country": "ALB",
+			"order": 1,
+			"points": 0,
+			"artist": "BESA",
+			"title": "TITAN"
+		},
+		{
+			"country": "ARM",
+			"order": 2,
+			"points": 0,
+			"artist": "LADANIVA",
+			"title": "Jako"
+		},
+		{
+			"country": "AUS",
+			"order": 3,
+			"points": 0,
+			"artist": "Electric Fields",
+			"title": "One Milkali (One Blood)"
+		},
+		{
+			"country": "AUT",
+			"order": 4,
+			"points": 0,
+			"artist": "Kaleen",
+			"title": "We Will Rave"
+		},
+		{
+			"country": "AZE",
+			"order": 5,
+			"points": 0,
+			"artist": "FAHREE feat. Ilkin Dovlatov",
+			"title": "Özünlə Apar"
+		},
+		{
+			"country": "BEL",
+			"order": 6,
+			"points": 0,
+			"artist": "Mustii",
+			"title": "Before the Party’s Over"
+		},
+		{
+			"country": "HRV",
+			"order": 7,
+			"points": 0,
+			"artist": "Baby Lasagna",
+			"title": "Rim Tim Tagi Dim"
+		},
+		{
+			"country": "CYP",
+			"order": 8,
+			"points": 0,
+			"artist": "Silia Kapsis",
+			"title": "Liar"
+		},
+
+		{
+			"country": "CZE",
+			"order": 9,
+			"points": 0,
+			"artist": "Aiko",
+			"title": "Pedestal"
+		},
+		{
+			"country": "DEN",
+			"order": 10,
+			"points": 0,
+			"artist": "SABA",
+			"title": "Sand"
+		},
+		{
+			"country": "EST",
+			"order": 11,
+			"points": 0,
+			"artist": "5MIINUST x Puuluup",
+			"title": "(nendest) narkootikumidest ei tea me (küll) midagi"
+		},
+		{
+			"country": "FIN",
+			"order": 12,
+			"points": 0,
+			"artist": "Windows95man",
+			"title": "No Rules!"
+		},
+
+		{
+			"country": "FRA",
+			"order": 13,
+			"points": 0,
+			"artist": "Slimane",
+			"title": "Mon amour"
+		},
+		{
+			"country": "GEO",
+			"order": 14,
+			"points": 0,
+			"artist": "Nutsa Bualadze",
+			"title": "Firefighter"
+		},
+		{
+			"country": "GER",
+			"order": 15,
+			"points": 0,
+			"artist": "ISAAK",
+			"title": "Always On The Run"
+		},
+		{
+			"country": "GRE",
+			"order": 16,
+			"points": 0,
+			"artist": "Marina Satti",
+			"title": "ZARI"
+		},
+		{
+			"country": "ISL",
+			"order": 17,
+			"points": 0,
+			"artist": "Hera Björk",
+			"title": "Scared of Heights"
+		},
+		{
+			"country": "IRL",
+			"order": 18,
+			"points": 0,
+			"artist": "Bambie Thug",
+			"title": "Doomsday Blue"
+		},
+
+		{
+			"country": "ISR",
+			"order": 19,
+			"points": 0,
+			"artist": "Eden Golan",
+			"title": "Hurricane"
+		},
+
+		{
+			"country": "ITA",
+			"order": 20,
+			"points": 0,
+			"artist": "Angelina Mango",
+			"title": "La noia"
+		},
+
+		{
+			"country": "LVA",
+			"order": 21,
+			"points": 0,
+			"artist": "Dons",
+			"title": "Hollow"
+		},
+		
+		{
+			"country": "LTU",
+			"order": 22,
+			"points": 0,
+			"artist": "Silvester Belt",
+			"title": "Luktelk"
+		},
+		{
+			"country": "LUX",
+			"order": 23,
+			"points": 0,
+			"artist": "TALI",
+			"title": "Fighter"
+		},
+		{
+			"country": "MLT",
+			"order": 24,
+			"points": 0,
+			"artist": "Sarah Bonnici",
+			"title": "Loop"
+		},
+		
+		{
+			"country": "MDA",
+			"order": 25,
+			"points": 0,
+			"artist": "Natalia Barbu",
+			"title": "In The Middle"
+		},
+		{
+			"country": "NED",
+			"order": 26,
+			"points": 0,
+			"artist": "Joost Klein",
+			"title": "Europapa"
+		},
+		{
+			"country": "NOR",
+			"order": 27,
+			"points": 0,
+			"artist": "Gåte",
+			"title": "Ulveham"
+		},
+		{
+			"country": "POL",
+			"order": 28,
+			"points": 0,
+			"artist": "LUNA",
+			"title": "The Tower"
+		},
+		{
+			"country": "POR",
+			"order": 29,
+			"points": 0,
+			"artist": "iolanda",
+			"title": "Grito"
+		},
+		{
+			"country": "SMR",
+			"order": 30,
+			"points": 0,
+			"artist": "MEGARA",
+			"title": "11:11"
+		},
+		{
+			"country": "SRB",
+			"order": 31,
+			"points": 0,
+			"artist": "TEYA DORA",
+			"title": "RAMONDA"
+		},
+		{
+			"country": "SVN",
+			"order": 32,
+			"points": 0,
+			"artist": "Raiven",
+			"title": "Veronika"
+		},
+		{
+			"country": "ESP",
+			"order": 33,
+			"points": 0,
+			"artist": "Nebulossa",
+			"title": "ZORRA"
+		},
+		{
+			"country": "SWE",
+			"order": 34,
+			"points": 0,
+			"artist": "Marcus & Martinus",
+			"title": "Unforgettable"
+		},
+		{
+			"country": "SUI",
+			"order": 35,
+			"points": 0,
+			"artist": "Nemo",
+			"title": "The Code"
+		},
+		{
+			"country": "UKR",
+			"order": 36,
+			"points": 0,
+			"artist": "alyona alyona & Jerry Heil",
+			"title": "Teresa & Maria"
+		},
+		{
+			"country": "UK",
+			"order": 37,
+			"points": 0,
+			"artist": "Olly Alexander",
+			"title": "Dizzy"
+		}
+
+	
+	]
+}

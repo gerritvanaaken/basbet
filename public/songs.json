@@ -1,0 +1,272 @@
+{
+	"meta": {
+		"formatversion": "1",
+		"day": "2024-05-13",
+		"showtype": "Grand Final",
+		"bettingLocked": false,
+		"finished": false		
+	},
+	"songs": [
+		{
+			"country": "ALB",
+			"order": 1,
+			"points": 0,
+			"artist": "Albina & Familja Kelmendi",
+			"title": "Duje"
+		},
+		{
+			"country": "ARM",
+			"order": 2,
+			"points": 0,
+			"artist": "Brunette",
+			"title": "Future Lover"
+		},
+		{
+			"country": "AUS",
+			"order": 3,
+			"points": 0,
+			"artist": "Voyager",
+			"title": "Promise"
+		},
+		{
+			"country": "AUT",
+			"order": 4,
+			"points": 0,
+			"artist": "Teya & Salena",
+			"title": "Who The Hell Is Edgar?"
+		},
+		{
+			"country": "AZE",
+			"order": 5,
+			"points": 0,
+			"artist": "TuralTuranX",
+			"title": "Tell Me More"
+		},
+		{
+			"country": "BEL",
+			"order": 6,
+			"points": 0,
+			"artist": "Gustaph",
+			"title": "Because Of You"
+		},
+		{
+			"country": "HRV",
+			"order": 7,
+			"points": 0,
+			"artist": "Let 3",
+			"title": "Mama ŠČ!"
+		},
+		{
+			"country": "CYP",
+			"order": 8,
+			"points": 0,
+			"artist": "Andrew Lambrou",
+			"title": "Break A Broken Heart"
+		},
+		{
+			"country": "CZE",
+			"order": 9,
+			"points": 0,
+			"artist": "Vesna",
+			"title": "My Sister’s Crown"
+		},
+		{
+			"country": "DEN",
+			"order": 10,
+			"points": 0,
+			"artist": "Reiley",
+			"title": "Breaking My Heart"
+		},
+		{
+			"country": "EST",
+			"order": 11,
+			"points": 0,
+			"artist": "Alika",
+			"title": "Bridges"
+		},
+		{
+			"country": "FIN",
+			"order": 12,
+			"points": 0,
+			"artist": "Käärijä",
+			"title": "Cha Cha Cha"
+		},
+		{
+			"country": "FRA",
+			"order": 13,
+			"points": 0,
+			"artist": "La Zarra",
+			"title": "Évidemment"
+		},
+		{
+			"country": "GEO",
+			"order": 14,
+			"points": 0,
+			"artist": "Iru",
+			"title": "Echo"
+		},
+		{
+			"country": "GER",
+			"order": 15,
+			"points": 0,
+			"artist": "Lord of the Lost",
+			"title": "Blood & Glitter"
+		},
+		{
+			"country": "GRE",
+			"order": 16,
+			"points": 0,
+			"artist": "Victor Vernicos",
+			"title": "What They Say"
+		},
+		{
+			"country": "ISL",
+			"order": 17,
+			"points": 0,
+			"artist": "Diljá",
+			"title": "Power"
+		},
+		{
+			"country": "IRL",
+			"order": 18,
+			"points": 0,
+			"artist": "Wild Youth",
+			"title": "We Are One"
+		},
+		{
+			"country": "ISR",
+			"order": 19,
+			"points": 0,
+			"artist": "Noa Kirel",
+			"title": "Unicorn"
+		},
+		{
+			"country": "ITA",
+			"order": 20,
+			"points": 0,
+			"artist": "Marco Mengoni",
+			"title": "Due Vite"
+		},
+		{
+			"country": "LVA",
+			"order": 21,
+			"points": 0,
+			"artist": "Sudden Lights",
+			"title": "Aijaā"
+		},
+		{
+			"country": "LTU",
+			"order": 22,
+			"points": 0,
+			"artist": "Monika Linkyteė",
+			"title": "Stay"
+		},
+		{
+			"country": "MLT",
+			"order": 23,
+			"points": 0,
+			"artist": "The Busker",
+			"title": "Dance (Our Own Party)"
+		},
+		{
+			"country": "MDA",
+			"order": 24,
+			"points": 0,
+			"artist": "Pasha Parfeni",
+			"title": "Soarele şi Luna"
+		},
+		{
+			"country": "NED",
+			"order": 25,
+			"points": 0,
+			"artist": "Mia Nicolai & Dion Cooper",
+			"title": "Burning Daylight"
+		},
+		{
+			"country": "NOR",
+			"order": 26,
+			"points": 0,
+			"artist": "Alessandra",
+			"title": "Queen of Kings"
+		},
+		{
+			"country": "POL",
+			"order": 27,
+			"points": 0,
+			"artist": "Blanka",
+			"title": "Solo"
+		},
+		{
+			"country": "POR",
+			"order": 28,
+			"points": 0,
+			"artist": "Mimicat",
+			"title": "Ai Coração"
+		},
+		{
+			"country": "ROU",
+			"order": 29,
+			"points": 0,
+			"artist": "Theodor Andrei",
+			"title": "D.G.T. (Off and On)"
+		},
+		{
+			"country": "SMR",
+			"order": 30,
+			"points": 0,
+			"artist": "Piqued Jacks",
+			"title": "Like An Animal"
+		},
+		{
+			"country": "SRB",
+			"order": 31,
+			"points": 0,
+			"artist": "Luke Black",
+			"title": "Samo Mi Se Spava"
+		},
+		{
+			"country": "SVN",
+			"order": 32,
+			"points": 0,
+			"artist": "Joker Out",
+			"title": "Carpe Diem"
+		},
+		{
+			"country": "ESP",
+			"order": 33,
+			"points": 0,
+			"artist": "Blanca Paloma",
+			"title": "Eaea"
+		},
+		{
+			"country": "SWE",
+			"order": 34,
+			"points": 0,
+			"artist": "Loreen",
+			"title": "Tattoo"
+		},
+		{
+			"country": "SUI",
+			"order": 35,
+			"points": 0,
+			"artist": "Remo Forrer",
+			"title": "Watergun"
+		},
+		{
+			"country": "UKR",
+			"order": 36,
+			"points": 0,
+			"artist": "TVORCHI",
+			"title": "Heart Of Steel"
+		},
+		{
+			"country": "UK",
+			"order": 37,
+			"points": 0,
+			"artist": "Mae Muller",
+			"title": "I Wrote A Song"
+		}
+
+	
+	]
+}
