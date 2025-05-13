@@ -5,7 +5,7 @@ import BetSongs from './components/BetSongs.vue';
 import BetPlayers from './components/BetPlayers.vue';
 import BetReadme from './components/BetReadme.vue';
 
-import type {SongData, Song, Player} from './@types/malbet';
+import type {SongData, Song, Player} from './@types/basbet';
 
 /* ----------------------------- Songs */
 
@@ -99,7 +99,7 @@ const toggleReadme = () => {
 	>
 		<header class="app__header">
 			<h1 class="app__headline">
-				#malbet
+				#basbet
 			</h1>
 			
 			<div class="app__phases">
@@ -134,7 +134,7 @@ const toggleReadme = () => {
 			</button>
 
 			<div class="app__subline">
-				The betting game for Malmö 2024
+				The betting game for Basel 2025
 			</div>
 		</header>
 		<div class="app__betarea">
@@ -309,7 +309,7 @@ body {
 	border-top-right-radius: .3rem;
 	&__button {
 		position: relative;
-		-webkit-appearance: none;
+		appearance: none;
 		background: none;
 		border: 1px solid #fff;
 		display: inline-block;

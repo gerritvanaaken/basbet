@@ -2,7 +2,7 @@
 
 import BetPlayer from './BetPlayer.vue';
 
-import type {Player, Song, MetaData} from '../@types/malbet';
+import type {Player, Song, MetaData} from '../@types/basbet';
 
 const emit = defineEmits(['deletePlayer', 'renamePlayer', 'changedRanking']);
 

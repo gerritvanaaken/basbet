@@ -5,7 +5,7 @@ import BetSong from './BetSong.vue';
 import draggable from 'zhyswan-vuedraggable';
 import VueScrollTo from 'vue-scrollto';
 
-import type {Song, MetaData} from '../@types/malbet';
+import type {Song, MetaData} from '../@types/basbet';
 
 const rootEl = ref<HTMLDListElement | null>(null);
 

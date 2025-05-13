@@ -1,10 +1,11 @@
 <script setup lang="ts">
 
-import {ref} from 'vue';
+import { ref } from 'vue';
+import type { Song } from '../@types/basbet';
 
-import type {Song} from '../@types/malbet';
-
-const emit = defineEmits(['delete']);
+const emit = defineEmits<{
+  delete: []
+}>();
 
 defineProps<{
 	index: number,
@@ -18,59 +19,6 @@ const deleteSong = () => {
 };
 
 const publicPath = ref<string>('/');
-
-const countrylabels = ref<Record<string, string>>({
-	'ALB': 'Albania',
-	'AND': 'Andorra',
-	'ARM': 'Armenia',
-	'AUS': 'Australia',
-	'AUT': 'Austria',
-	'AZE': 'Azerbaijan',
-	'BEL': 'Belgium',
-	'BLR': 'Belarus',
-	'BOS': 'Bosnia & Herzegovina',
-	'BUL': 'Bulgaria',
-	'CRO': 'Croatia',
-	'CYP': 'Cyprus',
-	'CZE': 'Czech Republic',
-	'DNK': 'Denmark',
-	'ESP': 'Spain',
-	'EST': 'Estonia',
-	'FIN': 'Finland',
-	'FRA': 'France',
-	'GBR': 'United Kingdom',
-	'GEO': 'Georgia',
-	'DEU': 'Germany',
-	'GRC': 'Greece',
-	'HUN': 'Hungary',
-	'IRL': 'Ireland',
-	'ISL': 'Iceland',
-	'ISR': 'Israel',
-	'ITA': 'Italia',
-	'LET': 'Latvia',
-	'LTU': 'Lithuania',
-	'LUX': 'Luxembourg',
-	'MKD': 'North Macedonia',
-	'MLT': 'Malta',
-	'MNE': 'Montenegro',
-	'MDA': 'Moldova',
-	'MON': 'Monaco',
-	'MOR': 'Morocco',
-	'NLD': 'The Netherlands',
-	'NOR': 'Norway',
-	'POL': 'Poland',
-	'POR': 'Portugal',
-	'ROM': 'Romania',
-	'RUS': 'Russia',
-	'SVN': 'Slovenia',
-	'SMR': 'San Marino',
-	'SRB': 'Serbia',
-	'CHE': 'Switzerland',
-	'SVK': 'Slovakia',
-	'SWE': 'Sweden',
-	'TUR': 'Turkey',
-	'UKR': 'Ukraine'
-});
 	
 </script>
 
@@ -82,18 +30,22 @@ const countrylabels = ref<Record<string, string>>({
 		<div class="song__country">
 			<img 
 				class="song__flag" 
-				:src="publicPath + 'flags/' + song.country + '.svg'" 
+				:src="publicPath + 'flags/' + song.countryCode + '.svg'" 
 				width="30" 
 				height="20" 
-				:alt="'Flag of' + countrylabels[song.country]" 
-				:title="countrylabels[song.country]" 
+				:alt="'Flag of ' + song.country" 
+				:title="song.country" 
 			>
-			<span 
+			
+		</div>
+		<span 
 				class="song__countrycode" 
-				:title="countrylabels[song.country]"
+				:title="song.country"
 			>
 				{{ song.country }}
 			</span>
+			<div class="song__artist">
+			{{ song.artist }}
 		</div>
 		<h3 class="song__title">
 			{{ song.title }} 
@@ -104,9 +56,7 @@ const countrylabels = ref<Record<string, string>>({
 				{{ song.points }}
 			</span>
 		</h3>
-		<div class="song__artist">
-			{{ song.artist }}
-		</div>
+		
 		<div 
 			class="song__rank" 
 			:class="{ 'song__rank--locked': locked }"
@@ -171,9 +121,7 @@ const countrylabels = ref<Record<string, string>>({
 		height: auto;
 	}
 	&__countrycode {
-		&:before {
-			content: '#';
-		}
+		
 		display: block;
 		margin-top: .1rem;
 		font-size: .8rem;
@@ -181,11 +129,14 @@ const countrylabels = ref<Record<string, string>>({
 	}
 	&__title {
 		font-weight: 200;
-		
 		text-overflow: ellipsis;
 		overflow: hidden;
 		width: calc(100% - 3.5rem);
 		white-space: nowrap;
+		.player & {
+			margin-left: 3.1rem;
+		}
+		
 	}
 	&__artist {
 		text-overflow: ellipsis;

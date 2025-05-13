@@ -1,272 +1,307 @@
 {
 	"meta": {
 		"formatversion": "1",
-		"day": "2024-05-13",
+		"day": "2025-05-17",
 		"showtype": "Grand Final",
 		"bettingLocked": false,
 		"finished": false		
 	},
 	"songs": [
 		{
-			"country": "ALB",
+			"country": "Albania",
+			"countryCode": "ALB",
 			"order": 1,
 			"points": 0,
-			"artist": "Albina & Familja Kelmendi",
-			"title": "Duje"
+			"artist": "Shkodra Elektronike",
+			"title": "Zjerm"
 		},
 		{
-			"country": "ARM",
+			"country": "Armenia",
+			"countryCode": "ARM",
 			"order": 2,
 			"points": 0,
-			"artist": "Brunette",
-			"title": "Future Lover"
+			"artist": "PARG",
+			"title": "SURVIVOR"
 		},
 		{
-			"country": "AUS",
+			"country": "Australia",
+			"countryCode": "AUS",
 			"order": 3,
 			"points": 0,
-			"artist": "Voyager",
-			"title": "Promise"
+			"artist": "Go-Jo",
+			"title": "Milkshake Man"
 		},
 		{
-			"country": "AUT",
+			"country": "Austria",
+			"countryCode": "AUT",
 			"order": 4,
 			"points": 0,
-			"artist": "Teya & Salena",
-			"title": "Who The Hell Is Edgar?"
+			"artist": "JJ",
+			"title": "Wasted Love"
 		},
 		{
-			"country": "AZE",
+			"country": "Azerbaijan",
+			"countryCode": "AZE",
 			"order": 5,
 			"points": 0,
-			"artist": "TuralTuranX",
-			"title": "Tell Me More"
+			"artist": "Mamagama",
+			"title": "Run With U"
 		},
 		{
-			"country": "BEL",
+			"country": "Belgium",
+			"countryCode": "BEL",
 			"order": 6,
 			"points": 0,
-			"artist": "Gustaph",
-			"title": "Because Of You"
+			"artist": "Red Sebastian",
+			"title": "Strobe Lights"
 		},
 		{
-			"country": "HRV",
+			"country": "Croatia",
+			"countryCode": "HRV",
 			"order": 7,
 			"points": 0,
-			"artist": "Let 3",
-			"title": "Mama ŠČ!"
+			"artist": "Marko Bošnjak",
+			"title": "Poison Cake"
 		},
 		{
-			"country": "CYP",
+			"country": "Cyprus",
+			"countryCode": "CYP",
 			"order": 8,
 			"points": 0,
-			"artist": "Andrew Lambrou",
-			"title": "Break A Broken Heart"
+			"artist": "Theo Evan",
+			"title": "Shh"
 		},
 		{
-			"country": "CZE",
+			"country": "Czech Republic",
+			"countryCode": "CZE",
 			"order": 9,
 			"points": 0,
-			"artist": "Vesna",
-			"title": "My Sister’s Crown"
+			"artist": "ADONXS",
+			"title": "Kiss Kiss Goodbye"
 		},
 		{
-			"country": "DEN",
+			"country": "Denmark",
+			"countryCode": "DNK",
 			"order": 10,
 			"points": 0,
-			"artist": "Reiley",
-			"title": "Breaking My Heart"
+			"artist": "Sissal",
+			"title": "Hallucination"
 		},
 		{
-			"country": "EST",
+			"country": "Estonia",
+			"countryCode": "EST",
 			"order": 11,
 			"points": 0,
-			"artist": "Alika",
-			"title": "Bridges"
+			"artist": "Tommy Cash",
+			"title": "Espresso Macchiato"
 		},
 		{
-			"country": "FIN",
+			"country": "Finland",
+			"countryCode": "FIN",
 			"order": 12,
 			"points": 0,
-			"artist": "Käärijä",
-			"title": "Cha Cha Cha"
+			"artist": "Erika Vikman",
+			"title": "ICH KOMME"
 		},
 		{
-			"country": "FRA",
+			"country": "France",
+			"countryCode": "FRA",
 			"order": 13,
 			"points": 0,
-			"artist": "La Zarra",
-			"title": "Évidemment"
+			"artist": "Louane",
+			"title": "maman"
 		},
 		{
-			"country": "GEO",
+			"country": "Georgia",
+			"countryCode": "GEO",
 			"order": 14,
 			"points": 0,
-			"artist": "Iru",
-			"title": "Echo"
+			"artist": "Mariam Shengelia",
+			"title": "Freedom"
 		},
 		{
-			"country": "GER",
+			"country": "Germany",
+			"countryCode": "DEU",
 			"order": 15,
 			"points": 0,
-			"artist": "Lord of the Lost",
-			"title": "Blood & Glitter"
+			"artist": "Abor & Tynna",
+			"title": "Baller"
 		},
 		{
-			"country": "GRE",
+			"country": "Greece",
+			"countryCode": "GRC",
 			"order": 16,
 			"points": 0,
-			"artist": "Victor Vernicos",
-			"title": "What They Say"
+			"artist": "Klavdia",
+			"title": "Asteromáta"
 		},
 		{
-			"country": "ISL",
+			"country": "Iceland",
+			"countryCode": "ISL",
 			"order": 17,
 			"points": 0,
-			"artist": "Diljá",
-			"title": "Power"
+			"artist": "VÆB",
+			"title": "RÓA"
 		},
 		{
-			"country": "IRL",
+			"country": "Ireland",
+			"countryCode": "IRL",
 			"order": 18,
 			"points": 0,
-			"artist": "Wild Youth",
-			"title": "We Are One"
+			"artist": "EMMY",
+			"title": "Laika Party"
 		},
 		{
-			"country": "ISR",
+			"country": "Israel",
+			"countryCode": "ISR",
 			"order": 19,
 			"points": 0,
-			"artist": "Noa Kirel",
-			"title": "Unicorn"
+			"artist": "Yuval Raphael",
+			"title": "New Day Will Rise"
 		},
 		{
-			"country": "ITA",
+			"country": "Italy",
+			"countryCode": "ITA",
 			"order": 20,
 			"points": 0,
-			"artist": "Marco Mengoni",
-			"title": "Due Vite"
+			"artist": "Lucio Corsi",
+			"title": "Volevo Essere Un Duro"
 		},
 		{
-			"country": "LVA",
+			"country": "Latvia",
+			"countryCode": "LVA",
 			"order": 21,
 			"points": 0,
-			"artist": "Sudden Lights",
-			"title": "Aijaā"
+			"artist": "Tautumeitas",
+			"title": "Bur Man Laimi"
 		},
 		{
-			"country": "LTU",
+			"country": "Lithuania",
+			"countryCode": "LTU",
 			"order": 22,
 			"points": 0,
-			"artist": "Monika Linkyteė",
-			"title": "Stay"
+			"artist": "Katarsis",
+			"title": "Tavo Akys"
 		},
 		{
-			"country": "MLT",
+			"country": "Luxembourg",
+			"countryCode": "LUX",
 			"order": 23,
 			"points": 0,
-			"artist": "The Busker",
-			"title": "Dance (Our Own Party)"
+			"artist": "Laura Thorn",
+			"title": "La Poupée Monte Le Son"
 		},
 		{
-			"country": "MDA",
+			"country": "Malta",
+			"countryCode": "MLT",
 			"order": 24,
 			"points": 0,
-			"artist": "Pasha Parfeni",
-			"title": "Soarele şi Luna"
+			"artist": "Miriana Conte",
+			"title": "SERVING"
 		},
 		{
-			"country": "NED",
+			"country": "Montenegro",
+			"countryCode": "MNE",
 			"order": 25,
 			"points": 0,
-			"artist": "Mia Nicolai & Dion Cooper",
-			"title": "Burning Daylight"
+			"artist": "Nina Žižić",
+			"title": "Dobrodošli"
 		},
 		{
-			"country": "NOR",
+			"country": "Netherlands",
+			"countryCode": "NLD",
 			"order": 26,
 			"points": 0,
-			"artist": "Alessandra",
-			"title": "Queen of Kings"
+			"artist": "Claude",
+			"title": "C'est La Vie"
 		},
 		{
-			"country": "POL",
+			"country": "Norway",
+			"countryCode": "NOR",
 			"order": 27,
 			"points": 0,
-			"artist": "Blanka",
-			"title": "Solo"
+			"artist": "Kyle Alessandro",
+			"title": "Lighter"
 		},
 		{
-			"country": "POR",
+			"country": "Poland",
+			"countryCode": "POL",
 			"order": 28,
 			"points": 0,
-			"artist": "Mimicat",
-			"title": "Ai Coração"
+			"artist": "Justyna Steczkowska",
+			"title": "GAJA"
 		},
 		{
-			"country": "ROU",
+			"country": "Portugal",
+			"countryCode": "PRT",
 			"order": 29,
 			"points": 0,
-			"artist": "Theodor Andrei",
-			"title": "D.G.T. (Off and On)"
+			"artist": "NAPA",
+			"title": "Deslocado"
 		},
 		{
-			"country": "SMR",
+			"country": "San Marino",
+			"countryCode": "SMR",
 			"order": 30,
 			"points": 0,
-			"artist": "Piqued Jacks",
-			"title": "Like An Animal"
+			"artist": "Gabry Ponte",
+			"title": "Tutta L'Italia"
 		},
 		{
-			"country": "SRB",
+			"country": "Serbia",
+			"countryCode": "SRB",
 			"order": 31,
 			"points": 0,
-			"artist": "Luke Black",
-			"title": "Samo Mi Se Spava"
+			"artist": "Princ",
+			"title": "Mila"
 		},
 		{
-			"country": "SVN",
+			"country": "Slovenia",
+			"countryCode": "SVN",
 			"order": 32,
 			"points": 0,
-			"artist": "Joker Out",
-			"title": "Carpe Diem"
+			"artist": "Klemen",
+			"title": "How Much Time Do We Have Left"
 		},
 		{
-			"country": "ESP",
+			"country": "Spain",
+			"countryCode": "ESP",
 			"order": 33,
 			"points": 0,
-			"artist": "Blanca Paloma",
-			"title": "Eaea"
+			"artist": "Melody",
+			"title": "ESA DIVA"
 		},
 		{
-			"country": "SWE",
+			"country": "Sweden",
+			"countryCode": "SWE",
 			"order": 34,
 			"points": 0,
-			"artist": "Loreen",
-			"title": "Tattoo"
+			"artist": "KAJ",
+			"title": "Bara Bada Bastu"
 		},
 		{
-			"country": "SUI",
+			"country": "Switzerland",
+			"countryCode": "CHE",
 			"order": 35,
 			"points": 0,
-			"artist": "Remo Forrer",
-			"title": "Watergun"
+			"artist": "Zoë Më",
+			"title": "Voyage"
 		},
 		{
-			"country": "UKR",
+			"country": "Ukraine",
+			"countryCode": "UKR",
 			"order": 36,
 			"points": 0,
-			"artist": "TVORCHI",
-			"title": "Heart Of Steel"
+			"artist": "Ziferblat",
+			"title": "Bird of Pray"
 		},
 		{
-			"country": "UK",
+			"country": "United Kingdom",
+			"countryCode": "GBR",
 			"order": 37,
 			"points": 0,
-			"artist": "Mae Muller",
-			"title": "I Wrote A Song"
+			"artist": "Remember Monday",
+			"title": "What The Hell Just Happened?"
 		}
-
-	
 	]
 }

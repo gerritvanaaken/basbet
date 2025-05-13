@@ -1,5 +1,6 @@
 export interface Song {
 	country: string;
+	countryCode: string;
 	order: number;
 	points: number;
 	title: string;
